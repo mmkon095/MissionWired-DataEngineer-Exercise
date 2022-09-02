@@ -27,4 +27,4 @@ In your command line, run 'missionwired.py'
 
 How to run the jupyter notebook
 
-Open 'missionwired.ipynb' and run cells in saved order
+Open 'MissionWired.ipynb' and run cells in saved order
