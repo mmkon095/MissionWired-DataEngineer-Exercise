@@ -1,6 +1,6 @@
-# MissionWired-DataEngineer-Exercise
+## MissionWired-DataEngineer-Exercise
 
-This repository contains my code submissions for this challenge exercise. I created a python script and a Jupyter Notebook for data aggregating and manipulation.
+##This repository contains my code submissions for this challenge exercise. I created a python script and a Jupyter Notebook for data aggregating and manipulation.
 
 
 System Dependencies:
@@ -17,6 +17,8 @@ Constituent Information: https://als-hiring.s3.amazonaws.com/fake_data/2020-07-0
 Constituent Email Addresses: https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email.csv
 
 Constituent Subscription Status: https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email_chapter_subscription.csv
+
+
 
 
 How to run the script locally
