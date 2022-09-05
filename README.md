@@ -1,6 +1,6 @@
 ## MissionWired-DataEngineer-Exercise
 
-##This repository contains my code submissions for this challenge exercise. I created a python script and a Jupyter Notebook for data aggregating and manipulation.
+This repository contains my code submissions for this challenge exercise. I created a python script and a Jupyter Notebook for data aggregating and manipulation.
 
 
 System Dependencies:
