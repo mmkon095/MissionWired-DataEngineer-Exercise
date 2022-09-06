@@ -5,9 +5,9 @@ This repository contains my code submissions for this challenge exercise. I crea
 
 System Dependencies:
 
-Requires a python 3.7+ installation or IDE
-Requires Jupyter to run notebooks
-Requires pandas package installed
+* Requires a python 3.7+ installation or IDE
+* Requires Jupyter to run notebooks
+* Requires pandas package installed
 
 
 The .csv files used in the exercise can be found here:
