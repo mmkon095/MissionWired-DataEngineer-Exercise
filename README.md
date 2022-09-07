@@ -20,9 +20,9 @@ The .csv files used in the exercise can be found here:
 
 Contents:
 
-MissionWired.py - This is the Python script
+* MissionWired.py - This is the Python script
 
-MissionWired.ipynb - This is the Python notebook
+* MissionWired.ipynb - This is the Python notebook
 
 
 How to run the script locally:
