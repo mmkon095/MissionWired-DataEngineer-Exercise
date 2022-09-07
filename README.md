@@ -18,7 +18,11 @@ The .csv files used in the exercise can be found here:
 
 * Constituent Subscription Status: https://als-hiring.s3.amazonaws.com/fake_data/2020-07-01_17%3A11%3A00/cons_email_chapter_subscription.csv
 
+Contents:
 
+MissionWired.py - This is the Python script
+
+MissionWired.ipynb - This is the Python notebook
 
 
 How to run the script locally:
